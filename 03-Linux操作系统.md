@@ -2,8 +2,6 @@
 
 GitHub : <a href="https://github.com/ProgramCZ">ProgramCZ</a> | WeChat OA : ProgramCZ
 
-[TOC]
-
 ## 第一节 操作系统
 
 ### #00 什么是大端和小端？如何判断一个系统是大端还是小端？
